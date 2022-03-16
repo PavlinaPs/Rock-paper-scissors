@@ -3,7 +3,6 @@ const yourChoiceDisplay = document.getElementById('user-choice');
 const resultDisplay = document.getElementById('result');
 
 const possibleChoices = document.querySelectorAll('button');
-console.log(possibleChoices);
 
 let userChoice
 let computerChoice
